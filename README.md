@@ -1,1 +1,1 @@
-enfeeble.booklist.io
+booklist.github.io
