@@ -1,1 +1,1 @@
-booklist.github.io
+https://github.com/enfeeble/booklist/index.html
